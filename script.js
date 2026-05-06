@@ -19,10 +19,10 @@ if (intro) {
 }
 
 const imageFallbacks = [
-  ["assets/bagno-1.jpg", "assets/bagno1.jpg", "assets/1.jpg", "assets/1.png"],
-  ["assets/bagno-2.jpg", "assets/bagno2.jpg", "assets/2.jpg", "assets/2.png"],
-  ["assets/bagno-3.jpg", "assets/bagno3.jpg", "assets/3.jpg", "assets/3.png"],
-  ["assets/bagno-4.jpg", "assets/bagno4.jpg", "assets/4.jpg", "assets/4.png"],
+  ["assets/bagno-1.jpeg", "assets/bagno-1.jpg", "assets/bagno1.jpg", "assets/1.jpg", "assets/1.png"],
+  ["assets/bagno-2.jpeg", "assets/bagno-2.jpg", "assets/bagno2.jpg", "assets/2.jpg", "assets/2.png"],
+  ["assets/bagno-3.jpeg", "assets/bagno-3.jpg", "assets/bagno3.jpg", "assets/3.jpg", "assets/3.png"],
+  ["assets/bagno-4.jpeg", "assets/bagno-4.jpg", "assets/bagno4.jpg", "assets/4.jpg", "assets/4.png"],
 ];
 
 const portfolioImages = document.querySelectorAll(".portfolio-card img");
